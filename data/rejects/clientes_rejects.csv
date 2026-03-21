@@ -1,0 +1,11 @@
+id_cliente,cliente,correo,telefono,motivo_rechazo
+cl1006,Andres Lopez 6,cliente645@outlook.com,,telefono_vacio
+cl1010,Fernando Gomez 10,,76885202,correo_vacio
+cl1012,Carmen Rivas 12,cliente1272@outlook.com,,telefono_vacio
+cl1027,Elena Ramirez 27,,73992809,correo_vacio
+cl1034,Marta Cruz 34,cliente3454@gmail.com,,telefono_vacio
+cl1077,Diego Morales 77,,75356137,correo_vacio
+cl1084,Andres Romero 84,,,correo_vacio;telefono_vacio
+cl1094,Paola Guerrero 94,,73486962,correo_vacio
+cl1100,Carmen Torres 100,,79293388-,correo_vacio
+cl1105,Jose Gomez 105,,74726461,correo_vacio
