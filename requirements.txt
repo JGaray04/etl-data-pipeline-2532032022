@@ -1,0 +1,6 @@
+import pandas as pd
+import unicodedata
+!pip install sqlalchemy psycopg2-binary
+from sqlalchemy import create_engine
+import numpy as np
+import re
