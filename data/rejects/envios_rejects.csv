@@ -1,0 +1,23 @@
+id_envio,id_pedido,direccion,fecha_envio,estado_envio,motivo_rechazo
+env8017,ped7073,"Calle El Mirador, Santa Ana",,En Ruta,fecha_envio_vacio
+env8045,ped7205,"Col. Escalón, Sonsonate",,Entregado,fecha_envio_vacio
+env8056,,"Boulevard Constitución, Sonsonate",2024-12-22,Devuelto,id_pedido_vacio
+env8058,ped7183,"Pje. Las Flores, San Salvador",,En Ruta,fecha_envio_vacio
+env8061,ped7205,"Av. Roosevelt, San Salvador",,En Ruta,fecha_envio_vacio
+env8067,ped7089,"Pje. Las Flores, Santa Ana",,En Ruta,fecha_envio_vacio
+env8074,ped7165,"Col. Escalón, La Libertad",,Preparando,fecha_envio_vacio
+env8083,ped7176,"Col. Escalón, San Salvador",,Preparando,fecha_envio_vacio
+env8084,ped7131,"Calle El Mirador, Santa Ana",,En Ruta,fecha_envio_vacio
+env8104,ped7144,"Calle El Mirador, San Miguel",,En Ruta,fecha_envio_vacio
+env8109,,"Calle El Mirador, La Libertad",2024-03-08,Devuelto,id_pedido_vacio
+env8111,ped7145,"Boulevard Constitución, Sonsonate",,Devuelto,fecha_envio_vacio
+env8114,ped7214,"Boulevard Constitución, San Miguel",,En Ruta,fecha_envio_vacio
+env8117,,"Pje. Las Flores, San Miguel",2025-06-06,Preparando,id_pedido_vacio
+env8124,,"Pje. Las Flores, La Libertad",2025-03-03,Preparando,id_pedido_vacio
+env8126,,"Pje. Las Flores, Santa Ana",2024-07-05,En Ruta,id_pedido_vacio
+env8148,,"Calle Principal, Usulután",2025-01-09,Preparando,id_pedido_vacio
+env8153,ped7096,"Pje. Las Flores, La Libertad",,Preparando,fecha_envio_vacio
+env8163,ped7098,"Pje. Las Flores, Usulután",,Entregado,fecha_envio_vacio
+env8165,ped7057,"Calle Principal, Santa Ana",,Entregado,fecha_envio_vacio
+env8189,,"Calle El Mirador, Sonsonate",,Entregado,id_pedido_vacio;fecha_envio_vacio
+env8194,,"Calle El Mirador, La Libertad",2024-03-04,Entregado,id_pedido_vacio
